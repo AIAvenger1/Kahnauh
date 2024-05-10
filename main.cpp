@@ -31,7 +31,7 @@ int main()
         c.push_front(std::to_string(i * 10));
     }
     */
-
+//
 
     //for (Cycle::Iterator it = c.start(); it != c.end(); --it)
     //{
