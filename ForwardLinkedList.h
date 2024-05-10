@@ -38,7 +38,7 @@ public:
 
         public:
             int operator*();
-            bool
+            
             
     };
 
