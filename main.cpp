@@ -32,7 +32,7 @@ int main()
     }
     */
 //
-
+ // YANA DWOISHNITSA
     //for (Cycle::Iterator it = c.start(); it != c.end(); --it)
     //{
     //    std::cout << *it << " ";
